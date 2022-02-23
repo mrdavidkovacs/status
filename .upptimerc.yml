@@ -3,20 +3,31 @@ owner: mrdavidkovacs # Your GitHub organization or username, where this reposito
 repo: status # The name of this repository
 
 sites:
-  - name: ORF.at
-    url: https://orf.at
+  - name: Asgard
+    url: https://asgard.kovacs.pw
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: Jarvis
     url: https://jarvis.kovacs.pw
-  - name: Matrix Element
+    icon: https://www.home-assistant.io/images/home-assistant-logo.svg
+  - name: Matrix Chat Element UI
     url: https://chat.kovacs.pw
+    icon: https://avatars.githubusercontent.com/u/8418310
+  - name: Matrix Chat Synapse Server
+    url: https://synapse.kovacs.pw
+    icon: https://avatars.githubusercontent.com/u/8418310
   - name: Bitwarden
     url: https://pass.kovacs.pw
+    icon: https://cdn.icon-icons.com/icons2/2108/PNG/512/bitwarden_icon_130977.png
   - name: Git
     url: https://git.kovacs.pw
   - name: Portainer
     url: https://containers.kovacs.pw
+    icon: https://developer.asustor.com/uploadIcons/0020_999_1639454569_Portainer_ce_256.png
   - name: Time-Tracker
     url: https://time.kovacs.pw
+
+assignees: # Users to assign downtime issues (optional)
+  - mrdavidkovacs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,9 +35,10 @@ status-website:
   cname: status.kovacs.pw
   #baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Service Status
+  theme: night
+  introTitle: "Service Status Summary"
+  introMessage:
   navbar:
     - title: Status
       href: /
