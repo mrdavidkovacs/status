@@ -20,11 +20,13 @@ sites:
     icon: https://cdn.icon-icons.com/icons2/2108/PNG/512/bitwarden_icon_130977.png
   - name: Git
     url: https://git.kovacs.pw
+    icon: https://gitea.io/images/gitea.png
   - name: Portainer
     url: https://containers.kovacs.pw
     icon: https://developer.asustor.com/uploadIcons/0020_999_1639454569_Portainer_ce_256.png
   - name: Time-Tracker
     url: https://time.kovacs.pw
+    icon: https://raw.githubusercontent.com/traggo/logo/master/logo.png
 
 assignees: # Users to assign downtime issues (optional)
   - mrdavidkovacs
