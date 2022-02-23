@@ -9,14 +9,10 @@ sites:
     url: https://jarvis.kovacs.pw
   - name: Matrix Element
     url: https://chat.kovacs.pw
-  - name: Vision
-    url: https://vision.kovacs.pw
   - name: Bitwarden
     url: https://pass.kovacs.pw
   - name: Git
     url: https://git.kovacs.pw
-  - name: IOTEdge
-    url: https://iotedge.kovacs.pw
   - name: Portainer
     url: https://containers.kovacs.pw
   - name: Time-Tracker
