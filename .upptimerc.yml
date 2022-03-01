@@ -27,6 +27,18 @@ sites:
   - name: Time-Tracker
     url: https://time.kovacs.pw
     icon: https://raw.githubusercontent.com/traggo/logo/master/logo.png
+  - name: Fss5Nas
+    url: https://kovacs-fss5.quickconnect.to/
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+    __dangerous__body_down: "Cannot connect to"
+  - name: ABB Backup
+    check: "tcp-ping"
+    url: backup.kovacs.pw
+    port: 5510
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
+  - name: ABB Restore
+    url: https://backup.kovacs.pw
+    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
 
 assignees: # Users to assign downtime issues (optional)
   - mrdavidkovacs
