@@ -94,19 +94,19 @@
     "url": "https://git.kovacs.pw",
     "icon": "https://gitea.io/images/gitea.png",
     "slug": "git",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 586,
-    "timeWeek": 706,
-    "timeMonth": 725,
-    "timeYear": 725,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 730,
+    "timeDay": 662,
+    "timeWeek": 716,
+    "timeMonth": 730,
+    "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-03-06": 0
+      "2022-03-06": 15
     }
   },
   {
