@@ -4,19 +4,19 @@
     "url": "https://asgard.kovacs.pw",
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "asgard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 757,
-    "timeDay": 777,
-    "timeWeek": 806,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 750,
+    "timeDay": 707,
+    "timeWeek": 789,
+    "timeMonth": 750,
+    "timeYear": 750,
     "dailyMinutesDown": {
-      "2022-03-06": 0
+      "2022-03-06": 12
     }
   },
   {
