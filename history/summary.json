@@ -4,9 +4,9 @@
     "url": "https://asgard.kovacs.pw",
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "asgard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 806,
     "timeMonth": 757,
     "timeYear": 757,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-06": 0
+    }
   },
   {
     "name": "Jarvis",
@@ -95,19 +97,17 @@
     "icon": "https://gitea.io/images/gitea.png",
     "slug": "git",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 662,
     "timeWeek": 716,
     "timeMonth": 730,
     "timeYear": 730,
-    "dailyMinutesDown": {
-      "2022-03-06": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portainer",
@@ -187,11 +187,11 @@
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "abb-restore",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 693,
     "timeDay": 663,
     "timeWeek": 693,
