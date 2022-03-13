@@ -1,7 +1,7 @@
-url: https://chat.kovacs.pw
+url: https://chat.$DOMAIN
 status: up
 code: 200
-responseTime: 859
-lastUpdated: 2022-03-12T23:12:05.829Z
+responseTime: 451
+lastUpdated: 2022-03-13T12:00:27.711Z
 startTime: Wed Feb 23 2022 13:37:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
