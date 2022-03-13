@@ -7,7 +7,7 @@ sites:
     url: https://asgard.$DOMAIN
     icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: Jarvis
-    url: https:// jarvis.$DOMAIN
+    url: https://jarvis.$DOMAIN
     icon: https://www.home-assistant.io/images/home-assistant-logo.svg
   - name: Matrix Chat Element UI
     url: https://chat.$DOMAIN
