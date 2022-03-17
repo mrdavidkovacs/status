@@ -62,19 +62,19 @@
     "url": "https://synapse.$DOMAIN",
     "icon": "https://avatars.githubusercontent.com/u/8418310",
     "slug": "matrix-chat-synapse-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 531,
-    "timeWeek": 707,
-    "timeMonth": 728,
-    "timeYear": 728,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 725,
+    "timeDay": 561,
+    "timeWeek": 699,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {
-      "2022-03-17": 0
+      "2022-03-17": 12
     }
   },
   {
