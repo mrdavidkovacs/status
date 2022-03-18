@@ -1,7 +1,7 @@
-url: https://$USER_BASIC_AUTH@dash.$DOMAIN
-status: down
-code: 401
-responseTime: 635
-lastUpdated: 2022-03-18T20:23:15.792Z
+url: $DOCKER_DASHBOARD_URL
+status: up
+code: 200
+responseTime: 1231
+lastUpdated: 2022-03-18T20:29:46.212Z
 startTime: Fri Mar 18 2022 20:23:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
