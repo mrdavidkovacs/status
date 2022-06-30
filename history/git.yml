@@ -1,7 +1,7 @@
 url: https://git.$DOMAIN
-status: down
-code: 403
-responseTime: 92
-lastUpdated: 2022-06-30T15:59:39.585Z
+status: up
+code: 200
+responseTime: 786
+lastUpdated: 2022-06-30T16:43:51.293Z
 startTime: Wed Feb 23 2022 13:20:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
