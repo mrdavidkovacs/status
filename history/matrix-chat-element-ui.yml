@@ -1,7 +1,7 @@
 url: https://chat.$DOMAIN
-status: up
-code: 200
-responseTime: 955
-lastUpdated: 2022-10-26T23:16:00.409Z
+status: down
+code: 404
+responseTime: 681
+lastUpdated: 2022-10-27T06:55:23.651Z
 startTime: Wed Feb 23 2022 13:37:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
