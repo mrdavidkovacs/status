@@ -18,9 +18,6 @@ sites:
   - name: Bitwarden
     url: https://pass.$DOMAIN
     icon: https://cdn.icon-icons.com/icons2/2108/PNG/512/bitwarden_icon_130977.png
-  - name: Git
-    url: https://git.$DOMAIN
-    icon: https://gitea.io/images/gitea.png
   - name: Vision
     url: $VISION_URL
     icon: https://avatars.githubusercontent.com/u/5375661?s=200&v=4
