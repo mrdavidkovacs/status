@@ -316,19 +316,19 @@
     "url": "https://thor.$DOMAIN",
     "icon": "https://github.com/AdguardTeam/AdGuardHome/raw/master/doc/adguard_home_darkmode.svg",
     "slug": "adguard-dns",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "69.63%",
-    "uptimeWeek": "95.66%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.55%",
-    "time": 735,
-    "timeDay": 616,
-    "timeWeek": 732,
-    "timeMonth": 716,
-    "timeYear": 735,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "59.46%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.40%",
+    "time": 737,
+    "timeDay": 702,
+    "timeWeek": 748,
+    "timeMonth": 721,
+    "timeYear": 737,
     "dailyMinutesDown": {
-      "2023-04-18": 437
+      "2023-04-18": 584
     }
   },
   {
