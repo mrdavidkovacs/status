@@ -1,7 +1,7 @@
-url: https://synapse.$DOMAIN
+url: https://matrix.$DOMAIN
 status: down
 code: 404
-responseTime: 412
-lastUpdated: 2023-04-30T18:40:32.869Z
+responseTime: 632
+lastUpdated: 2023-04-30T19:31:46.986Z
 startTime: Wed Feb 23 2022 13:37:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
