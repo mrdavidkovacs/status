@@ -11,9 +11,9 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.30%",
     "time": 1229,
-    "timeDay": 874,
-    "timeWeek": 1005,
-    "timeMonth": 860,
+    "timeDay": 645,
+    "timeWeek": 993,
+    "timeMonth": 825,
     "timeYear": 1267,
     "dailyMinutesDown": {
       "2023-06-06": 265,
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 869,
-    "timeDay": 531,
-    "timeWeek": 814,
-    "timeMonth": 703,
-    "timeYear": 927,
+    "timeDay": 693,
+    "timeWeek": 843,
+    "timeMonth": 701,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2023-05-03": 97,
       "2023-05-02": 72,
@@ -71,8 +71,7 @@
       "2022-06-29": 21,
       "2022-06-26": 51,
       "2022-06-21": 40,
-      "2022-06-17": 19,
-      "2022-06-16": 26
+      "2022-06-17": 19
     }
   },
   {
@@ -86,10 +85,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
-    "time": 689,
-    "timeDay": 415,
-    "timeWeek": 651,
-    "timeMonth": 646,
+    "time": 688,
+    "timeDay": 576,
+    "timeWeek": 672,
+    "timeMonth": 645,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2023-05-04": 18,
@@ -113,8 +112,7 @@
       "2022-06-29": 21,
       "2022-06-26": 51,
       "2022-06-21": 40,
-      "2022-06-17": 19,
-      "2022-06-16": 26
+      "2022-06-17": 19
     }
   },
   {
@@ -123,15 +121,15 @@
     "icon": "https://avatars.githubusercontent.com/u/8418310",
     "slug": "matrix-chat-synapse-server",
     "status": "up",
-    "uptime": "97.97%",
+    "uptime": "97.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.57%",
-    "time": 825,
-    "timeDay": 500,
-    "timeWeek": 693,
-    "timeMonth": 595,
+    "time": 824,
+    "timeDay": 693,
+    "timeWeek": 720,
+    "timeMonth": 598,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2023-05-08": 773,
@@ -160,8 +158,7 @@
       "2022-06-29": 21,
       "2022-06-26": 51,
       "2022-06-21": 39,
-      "2022-06-17": 19,
-      "2022-06-16": 26
+      "2022-06-17": 19
     }
   },
   {
@@ -176,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 643,
-    "timeDay": 400,
-    "timeWeek": 607,
-    "timeMonth": 578,
+    "timeDay": 556,
+    "timeWeek": 629,
+    "timeMonth": 576,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2023-05-03": 77,
@@ -196,8 +193,7 @@
       "2022-06-29": 21,
       "2022-06-26": 51,
       "2022-06-21": 39,
-      "2022-06-17": 19,
-      "2022-06-16": 26
+      "2022-06-17": 19
     }
   },
   {
@@ -212,10 +208,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
     "time": 1067,
-    "timeDay": 843,
-    "timeWeek": 1033,
-    "timeMonth": 1045,
-    "timeYear": 1186,
+    "timeDay": 1088,
+    "timeWeek": 1072,
+    "timeMonth": 1042,
+    "timeYear": 1188,
     "dailyMinutesDown": {
       "2023-05-23": 18,
       "2023-05-03": 76,
@@ -236,8 +232,7 @@
       "2022-06-29": 21,
       "2022-06-26": 51,
       "2022-06-21": 37,
-      "2022-06-17": 19,
-      "2022-06-16": 26
+      "2022-06-17": 19
     }
   },
   {
@@ -246,15 +241,15 @@
     "icon": "https://cdn.icon-icons.com/icons2/2389/PNG/512/docker_logo_icon_145331.png",
     "slug": "docker-dashboard",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 702,
-    "timeDay": 643,
-    "timeWeek": 700,
-    "timeMonth": 714,
+    "timeDay": 691,
+    "timeWeek": 723,
+    "timeMonth": 711,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2023-05-03": 74,
@@ -274,8 +269,7 @@
       "2022-06-29": 21,
       "2022-06-26": 51,
       "2022-06-21": 35,
-      "2022-06-17": 19,
-      "2022-06-16": 26
+      "2022-06-17": 19
     }
   },
   {
@@ -289,11 +283,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 667,
-    "timeDay": 503,
-    "timeWeek": 694,
-    "timeMonth": 665,
-    "timeYear": 691,
+    "time": 668,
+    "timeDay": 776,
+    "timeWeek": 735,
+    "timeMonth": 664,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2023-05-03": 73,
       "2023-05-02": 42,
@@ -309,8 +303,7 @@
       "2022-06-29": 21,
       "2022-06-26": 51,
       "2022-06-21": 34,
-      "2022-06-17": 19,
-      "2022-06-16": 26
+      "2022-06-17": 19
     }
   },
   {
@@ -324,11 +317,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.43%",
-    "time": 801,
-    "timeDay": 542,
-    "timeWeek": 694,
-    "timeMonth": 690,
-    "timeYear": 801,
+    "time": 800,
+    "timeDay": 681,
+    "timeWeek": 718,
+    "timeMonth": 687,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2023-06-06": 277,
       "2023-05-03": 73,
@@ -350,9 +343,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 40,
-    "timeWeek": 70,
-    "timeMonth": 109,
+    "timeDay": 144,
+    "timeWeek": 86,
+    "timeMonth": 110,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -362,14 +355,14 @@
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "abb-backup",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
     "time": 161,
-    "timeDay": 121,
-    "timeWeek": 174,
+    "timeDay": 154,
+    "timeWeek": 180,
     "timeMonth": 165,
     "timeYear": 167,
     "dailyMinutesDown": {
@@ -398,9 +391,9 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.83%",
     "time": 928,
-    "timeDay": 573,
-    "timeWeek": 755,
-    "timeMonth": 714,
+    "timeDay": 624,
+    "timeWeek": 765,
+    "timeMonth": 710,
     "timeYear": 990,
     "dailyMinutesDown": {
       "2023-06-06": 265,
