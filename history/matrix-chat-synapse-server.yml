@@ -1,7 +1,7 @@
 url: https://matrix.$DOMAIN/_matrix/static/
 status: up
 code: 200
-responseTime: 525
-lastUpdated: 2023-06-20T23:11:14.281Z
+responseTime: 720
+lastUpdated: 2023-06-21T23:10:44.173Z
 startTime: Wed Feb 23 2022 13:37:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
