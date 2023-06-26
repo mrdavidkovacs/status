@@ -5,15 +5,15 @@
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "asgard",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.30%",
     "time": 1221,
-    "timeDay": 534,
-    "timeWeek": 805,
-    "timeMonth": 843,
+    "timeDay": 1075,
+    "timeWeek": 835,
+    "timeMonth": 853,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2023-06-06": 265,
@@ -33,8 +33,7 @@
       "2022-09-06": 57,
       "2022-08-15": 18,
       "2022-08-04": 16,
-      "2022-07-11": 17,
-      "2022-06-26": 158
+      "2022-07-11": 17
     }
   },
   {
@@ -49,10 +48,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 871,
-    "timeDay": 543,
-    "timeWeek": 673,
-    "timeMonth": 720,
-    "timeYear": 930,
+    "timeDay": 769,
+    "timeWeek": 666,
+    "timeMonth": 722,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2023-05-03": 97,
       "2023-05-02": 72,
@@ -68,8 +67,7 @@
       "2022-07-19": 25,
       "2022-07-01": 41,
       "2022-06-30": 202,
-      "2022-06-29": 21,
-      "2022-06-26": 51
+      "2022-06-29": 21
     }
   },
   {
@@ -84,9 +82,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 687,
-    "timeDay": 692,
-    "timeWeek": 615,
-    "timeMonth": 654,
+    "timeDay": 608,
+    "timeWeek": 596,
+    "timeMonth": 651,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2023-05-04": 18,
@@ -107,8 +105,7 @@
       "2022-08-04": 16,
       "2022-07-01": 41,
       "2022-06-30": 202,
-      "2022-06-29": 21,
-      "2022-06-26": 51
+      "2022-06-29": 21
     }
   },
   {
@@ -117,16 +114,16 @@
     "icon": "https://avatars.githubusercontent.com/u/8418310",
     "slug": "matrix-chat-synapse-server",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.58%",
     "time": 821,
-    "timeDay": 534,
-    "timeWeek": 619,
-    "timeMonth": 624,
-    "timeYear": 857,
+    "timeDay": 790,
+    "timeWeek": 634,
+    "timeMonth": 631,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2023-05-08": 773,
       "2023-05-07": 1440,
@@ -151,8 +148,7 @@
       "2022-08-04": 16,
       "2022-07-01": 41,
       "2022-06-30": 202,
-      "2022-06-29": 21,
-      "2022-06-26": 51
+      "2022-06-29": 21
     }
   },
   {
@@ -167,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 641,
-    "timeDay": 431,
-    "timeWeek": 511,
-    "timeMonth": 572,
+    "timeDay": 582,
+    "timeWeek": 513,
+    "timeMonth": 573,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2023-05-03": 77,
@@ -184,8 +180,7 @@
       "2022-08-04": 16,
       "2022-07-01": 41,
       "2022-06-30": 202,
-      "2022-06-29": 21,
-      "2022-06-26": 51
+      "2022-06-29": 21
     }
   },
   {
@@ -199,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1067,
-    "timeDay": 849,
-    "timeWeek": 1019,
-    "timeMonth": 1083,
-    "timeYear": 1204,
+    "time": 1068,
+    "timeDay": 1407,
+    "timeWeek": 1057,
+    "timeMonth": 1093,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2023-05-23": 18,
       "2023-05-03": 76,
@@ -221,8 +216,7 @@
       "2022-07-19": 25,
       "2022-07-01": 41,
       "2022-06-30": 202,
-      "2022-06-29": 21,
-      "2022-06-26": 51
+      "2022-06-29": 21
     }
   },
   {
@@ -237,9 +231,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 702,
-    "timeDay": 546,
-    "timeWeek": 640,
-    "timeMonth": 705,
+    "timeDay": 797,
+    "timeWeek": 648,
+    "timeMonth": 709,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2023-05-03": 74,
@@ -256,8 +250,7 @@
       "2022-08-04": 16,
       "2022-07-01": 41,
       "2022-06-30": 202,
-      "2022-06-29": 21,
-      "2022-06-26": 51
+      "2022-06-29": 21
     }
   },
   {
@@ -271,10 +264,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 667,
-    "timeDay": 672,
-    "timeWeek": 642,
-    "timeMonth": 683,
+    "time": 668,
+    "timeDay": 783,
+    "timeWeek": 657,
+    "timeMonth": 687,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2023-05-03": 73,
@@ -288,8 +281,7 @@
       "2022-08-04": 16,
       "2022-07-01": 41,
       "2022-06-30": 202,
-      "2022-06-29": 21,
-      "2022-06-26": 51
+      "2022-06-29": 21
     }
   },
   {
@@ -298,15 +290,15 @@
     "icon": "https://github.com/AdguardTeam/AdGuardHome/raw/master/doc/adguard_home_darkmode.svg",
     "slug": "adguard-dns",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 792,
-    "timeDay": 573,
-    "timeWeek": 650,
-    "timeMonth": 691,
+    "timeDay": 767,
+    "timeWeek": 657,
+    "timeMonth": 692,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2023-06-06": 277,
@@ -328,10 +320,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 202,
-    "timeWeek": 118,
-    "timeMonth": 116,
+    "time": 147,
+    "timeDay": 49,
+    "timeWeek": 112,
+    "timeMonth": 108,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -346,10 +338,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 161,
-    "timeDay": 116,
-    "timeWeek": 146,
-    "timeMonth": 164,
+    "time": 162,
+    "timeDay": 217,
+    "timeWeek": 153,
+    "timeMonth": 165,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2023-05-03": 71,
@@ -361,8 +353,7 @@
       "2022-11-05": 1440,
       "2022-11-04": 884,
       "2022-10-26": 24,
-      "2022-09-06": 53,
-      "2022-06-26": 16
+      "2022-09-06": 53
     }
   },
   {
@@ -377,10 +368,10 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.83%",
     "time": 928,
-    "timeDay": 591,
-    "timeWeek": 666,
-    "timeMonth": 716,
-    "timeYear": 989,
+    "timeDay": 794,
+    "timeWeek": 676,
+    "timeMonth": 719,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2023-06-06": 265,
       "2023-05-03": 71,
@@ -402,8 +393,7 @@
       "2022-09-06": 53,
       "2022-08-15": 18,
       "2022-08-04": 16,
-      "2022-07-15": 36,
-      "2022-06-26": 157
+      "2022-07-15": 36
     }
   }
 ]
