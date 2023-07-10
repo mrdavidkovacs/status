@@ -1,7 +1,7 @@
 url: https://backup.$DOMAIN
-status: down
-code: 502
-responseTime: 369
-lastUpdated: 2023-07-10T06:42:55.297Z
+status: up
+code: 200
+responseTime: 847
+lastUpdated: 2023-07-10T06:55:00.146Z
 startTime: Tue Mar 01 2022 23:35:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
