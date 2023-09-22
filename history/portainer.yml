@@ -1,7 +1,7 @@
 url: https://containers.$DOMAIN
-status: down
-code: 404
-responseTime: 405
-lastUpdated: 2023-09-22T17:50:53.502Z
+status: up
+code: 200
+responseTime: 739
+lastUpdated: 2023-09-22T18:11:24.117Z
 startTime: 2022-02-23T13:20:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
