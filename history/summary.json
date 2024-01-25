@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "98.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "80.82%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "84.11%",
     "uptimeYear": "97.47%",
-    "time": 1127,
-    "timeDay": 943,
-    "timeWeek": 1182,
-    "timeMonth": 863,
+    "time": 1126,
+    "timeDay": 553,
+    "timeWeek": 706,
+    "timeMonth": 853,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2024-01-17": 24,
@@ -40,8 +40,7 @@
       "2023-04-23": 87,
       "2023-04-18": 445,
       "2023-04-05": 24,
-      "2023-02-05": 31,
-      "2023-01-25": 105
+      "2023-02-05": 31
     }
   },
   {
@@ -56,10 +55,10 @@
     "uptimeMonth": "98.20%",
     "uptimeYear": "99.38%",
     "time": 830,
-    "timeDay": 572,
-    "timeWeek": 530,
-    "timeMonth": 536,
-    "timeYear": 824,
+    "timeDay": 375,
+    "timeWeek": 514,
+    "timeMonth": 528,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2024-01-08": 497,
       "2024-01-07": 292,
@@ -89,15 +88,15 @@
     "icon": "https://cdn.icon-icons.com/icons2/2108/PNG/512/bitwarden_icon_130977.png",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 630,
-    "timeDay": 427,
-    "timeWeek": 517,
-    "timeMonth": 530,
+    "timeDay": 355,
+    "timeWeek": 505,
+    "timeMonth": 521,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2023-12-23": 250,
@@ -109,8 +108,7 @@
       "2023-05-02": 47,
       "2023-04-27": 55,
       "2023-04-24": 19,
-      "2023-04-18": 22,
-      "2023-01-25": 61
+      "2023-04-18": 22
     }
   },
   {
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1201,
-    "timeDay": 1028,
-    "timeWeek": 1017,
-    "timeMonth": 1027,
-    "timeYear": 1197,
+    "time": 1202,
+    "timeDay": 717,
+    "timeWeek": 989,
+    "timeMonth": 1016,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2023-12-23": 250,
       "2023-12-05": 57,
@@ -158,10 +156,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 743,
-    "timeDay": 604,
-    "timeWeek": 617,
-    "timeMonth": 655,
+    "time": 744,
+    "timeDay": 564,
+    "timeWeek": 610,
+    "timeMonth": 646,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2023-12-23": 249,
@@ -190,9 +188,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 705,
-    "timeDay": 590,
-    "timeWeek": 677,
-    "timeMonth": 629,
+    "timeDay": 471,
+    "timeWeek": 611,
+    "timeMonth": 622,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2023-12-23": 249,
@@ -204,8 +202,7 @@
       "2023-05-03": 73,
       "2023-05-02": 42,
       "2023-04-27": 28,
-      "2023-04-18": 415,
-      "2023-01-25": 57
+      "2023-04-18": 415
     }
   },
   {
@@ -214,16 +211,16 @@
     "icon": "https://github.com/AdguardTeam/AdGuardHome/raw/master/doc/adguard_home_darkmode.svg",
     "slug": "adguard-dns",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "97.43%",
-    "time": 720,
-    "timeDay": 559,
-    "timeWeek": 600,
-    "timeMonth": 617,
-    "timeYear": 720,
+    "uptimeYear": "97.44%",
+    "time": 721,
+    "timeDay": 991,
+    "timeWeek": 700,
+    "timeMonth": 624,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2024-01-08": 475,
       "2024-01-07": 292,
@@ -264,9 +261,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 42,
-    "timeWeek": 122,
-    "timeMonth": 125,
+    "timeDay": 44,
+    "timeWeek": 90,
+    "timeMonth": 113,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -278,21 +275,20 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 162,
-    "timeDay": 120,
-    "timeWeek": 130,
-    "timeMonth": 132,
+    "timeDay": 99,
+    "timeWeek": 124,
+    "timeMonth": 130,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2024-01-17": 17,
       "2023-12-05": 22,
       "2023-05-03": 71,
       "2023-05-02": 39,
-      "2023-04-18": 417,
-      "2023-01-25": 26
+      "2023-04-18": 417
     }
   },
   {
@@ -301,15 +297,15 @@
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "abb-restore",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "80.82%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "84.11%",
     "uptimeYear": "97.82%",
     "time": 903,
-    "timeDay": 588,
-    "timeWeek": 977,
-    "timeMonth": 732,
+    "timeDay": 516,
+    "timeWeek": 614,
+    "timeMonth": 725,
     "timeYear": 946,
     "dailyMinutesDown": {
       "2024-01-17": 23,
@@ -335,8 +331,7 @@
       "2023-04-23": 18,
       "2023-04-18": 434,
       "2023-04-05": 24,
-      "2023-02-05": 31,
-      "2023-01-25": 99
+      "2023-02-05": 31
     }
   }
 ]
