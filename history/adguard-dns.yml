@@ -1,7 +1,7 @@
 url: https://thor.$DOMAIN
-status: up
-code: 200
-responseTime: 963
-lastUpdated: 2024-07-06T23:11:07.064Z
+status: down
+code: 404
+responseTime: 588
+lastUpdated: 2024-07-07T10:30:36.843Z
 startTime: 2023-02-10T10:33:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
