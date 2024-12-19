@@ -1,7 +1,7 @@
 url: $VISION_URL
-status: down
-code: 404
-responseTime: 413
-lastUpdated: 2024-12-19T06:46:30.913Z
+status: up
+code: 200
+responseTime: 1537
+lastUpdated: 2024-12-19T06:58:29.018Z
 startTime: 2022-03-18T20:29:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
