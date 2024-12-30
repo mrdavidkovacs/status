@@ -1,7 +1,7 @@
 url: $DOCKER_DASHBOARD_URL
 status: up
 code: 200
-responseTime: 834
-lastUpdated: 2024-12-29T23:12:12.278Z
+responseTime: 970
+lastUpdated: 2024-12-30T23:12:23.059Z
 startTime: 2022-03-18T20:23:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
