@@ -1,7 +1,7 @@
 url: https://asgard.$DOMAIN
-status: up
-code: 200
-responseTime: 670
-lastUpdated: 2025-06-08T11:17:05.318Z
+status: down
+code: 404
+responseTime: 357
+lastUpdated: 2025-06-08T11:29:10.330Z
 startTime: 2022-02-23T13:37:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
