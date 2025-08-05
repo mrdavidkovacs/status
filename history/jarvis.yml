@@ -1,7 +1,7 @@
 url: https://jarvis.$DOMAIN
-status: down
-code: 522
-responseTime: 20037
-lastUpdated: 2025-08-05T11:54:01.766Z
+status: up
+code: 200
+responseTime: 764
+lastUpdated: 2025-08-05T12:42:41.066Z
 startTime: 2022-02-23T13:20:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
