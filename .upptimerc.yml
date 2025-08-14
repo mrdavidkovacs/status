@@ -28,7 +28,7 @@ sites:
     url: https://containers.$DOMAIN
     icon: https://developer.asustor.com/uploadIcons/0020_999_1639454569_Portainer_ce_256.png
   - name: AdguardDNS
-    url: https://thor.$DOMAIN
+    url: https://dns.$DOMAIN
     icon: https://github.com/AdguardTeam/AdGuardHome/raw/master/doc/adguard_home_darkmode.svg
   #- name: Time-Tracker
   #  url: https://time.$DOMAIN
