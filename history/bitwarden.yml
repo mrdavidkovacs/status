@@ -1,7 +1,7 @@
 url: https://pass.$DOMAIN
-status: down
-code: 521
-responseTime: 259
-lastUpdated: 2025-09-08T06:32:07.690Z
+status: up
+code: 200
+responseTime: 611
+lastUpdated: 2025-09-08T07:18:15.791Z
 startTime: 2022-02-23T13:20:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
