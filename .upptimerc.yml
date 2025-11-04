@@ -33,6 +33,9 @@ sites:
   #- name: Time-Tracker
   #  url: https://time.$DOMAIN
   #  icon: https://raw.githubusercontent.com/traggo/logo/master/logo.png
+  - name: Immich
+    url: https://immich.$DOMAIN
+    icon: https://github.com/immich-app/immich/blob/main/design/immich-logo-stacked-light.svg
   - name: KovacsFss5
     url: https://kovacs-fss5.quickconnect.to/
     icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
