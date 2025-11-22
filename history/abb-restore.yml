@@ -1,7 +1,7 @@
 url: https://backup.$DOMAIN
-status: up
-code: 200
-responseTime: 749
-lastUpdated: 2025-11-22T18:41:27.307Z
+status: down
+code: 404
+responseTime: 429
+lastUpdated: 2025-11-22T19:52:36.891Z
 startTime: 2022-03-01T23:35:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
