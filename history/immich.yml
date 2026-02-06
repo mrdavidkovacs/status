@@ -1,7 +1,7 @@
 url: https://immich.$DOMAIN
-status: up
-code: 200
-responseTime: 554
-lastUpdated: 2026-02-05T23:19:42.716Z
+status: down
+code: 521
+responseTime: 182
+lastUpdated: 2026-02-06T06:32:54.391Z
 startTime: 2025-11-04T07:52:46.580Z
 generator: Upptime <https://github.com/upptime/upptime>
