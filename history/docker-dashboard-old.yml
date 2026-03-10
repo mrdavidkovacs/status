@@ -1,7 +1,7 @@
 url: https://dash-old.$DOMAIN
-status: up
-code: 200
-responseTime: 1388
-lastUpdated: 2026-03-10T13:35:10.125Z
+status: down
+code: 403
+responseTime: 169
+lastUpdated: 2026-03-10T23:23:25.784Z
 startTime: 2026-02-22T19:58:35.828Z
 generator: Upptime <https://github.com/upptime/upptime>
