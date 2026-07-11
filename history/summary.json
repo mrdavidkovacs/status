@@ -338,7 +338,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.03%",
+    "uptimeYear": "67.02%",
     "time": 130,
     "timeDay": 0,
     "timeWeek": 0,
@@ -351,7 +351,7 @@
       "2026-03-09": 32,
       "2026-03-10": 112,
       "2026-03-11": 132,
-      "2026-07-11": 495,
+      "2026-07-11": 593,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -479,16 +479,16 @@
     "url": "https://backup.$DOMAIN",
     "icon": "https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg",
     "slug": "abb-restore",
-    "status": "down",
-    "uptime": "98.64%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.68%",
+    "status": "up",
+    "uptime": "98.63%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.66%",
     "time": 689,
-    "timeDay": 1458,
-    "timeWeek": 984,
-    "timeMonth": 984,
+    "timeDay": 1180,
+    "timeWeek": 944,
+    "timeMonth": 974,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2025-08-20": 21,
@@ -510,7 +510,7 @@
       "2026-03-10": 112,
       "2026-03-11": 132,
       "2026-07-02": 160,
-      "2026-07-11": 0
+      "2026-07-11": 99
     }
   }
 ]
