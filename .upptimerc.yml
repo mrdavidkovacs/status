@@ -28,15 +28,7 @@ sites:
     url: https://kovacs-fss5.quickconnect.to/
     icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
     __dangerous__body_down: "Cannot connect to"
-  - name: ABB Backup
-    check: "tcp-ping"
-    url: backup.$DOMAIN
-    port: 5510
-    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
-  - name: ABB Restore
-    url: https://backup.$DOMAIN
-    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
-
+  
 assignees: # Users to assign downtime issues (optional)
   - mrdavidkovacs
 
