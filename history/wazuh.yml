@@ -1,7 +1,7 @@
 url: https://wazuh.$DOMAIN
 status: up
 code: 200
-responseTime: 1081
-lastUpdated: 2026-08-18T23:17:19.781Z
+responseTime: 713
+lastUpdated: 2026-08-19T23:18:08.077Z
 startTime: 2026-07-30T06:50:38.830Z
 generator: Upptime <https://github.com/upptime/upptime>
