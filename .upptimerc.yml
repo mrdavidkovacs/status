@@ -15,9 +15,6 @@ sites:
   - name: Docker-Dashboard
     url: $DOCKER_DASHBOARD_URL
     icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/dockhand.webp
-  - name: Docker-Dashboard (old)
-    url: https://dash-old.$DOMAIN
-    icon: https://cdn.icon-icons.com/icons2/2389/PNG/512/docker_logo_icon_145331.png
   - name: Immich
     url: https://immich.$DOMAIN
     icon: https://github.com/immich-app/immich/blob/main/design/immich-logo-stacked-light.svg
