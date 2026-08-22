@@ -34,9 +34,6 @@ sites:
   - name: Paperless
     url: https://paperless.$DOMAIN
     icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/paperless-ngx.svg
-  - name: Photos
-    url: https://photos.$DOMAIN
-    icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
   - name: Actual Budget
     url: https://budget.$DOMAIN
     icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/actual-budget.svg
