@@ -18,6 +18,15 @@ sites:
   - name: Immich
     url: https://immich.$DOMAIN
     icon: https://github.com/immich-app/immich/blob/main/design/immich-logo-stacked-light.svg
+  - name: Jellyfin
+    url: https://media.$DOMAIN
+    icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/jellyfin.svg
+  - name: Dawarich
+    url: https://dawarich.$DOMAIN
+    icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dawarich.svg
+  - name: Audiobookshelf
+    url: https://abs.$DOMAIN
+    icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/audiobookshelf.svg
   - name: KovacsFss5
     url: https://kovacs-fss5.quickconnect.to/
     icon: https://www.synology.com/img/company/branding/synology_logo_variations2-4.jpg
