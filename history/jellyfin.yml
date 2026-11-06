@@ -1,7 +1,7 @@
 url: https://media.$DOMAIN
-status: up
-code: 200
-responseTime: 1222
-lastUpdated: 2026-11-06T03:03:15.646Z
+status: down
+code: 502
+responseTime: 448
+lastUpdated: 2026-11-06T22:25:50.086Z
 startTime: 2026-09-18T19:37:50.587Z
 generator: Upptime <https://github.com/upptime/upptime>
