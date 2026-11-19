@@ -1,7 +1,7 @@
 url: https://dns.$DOMAIN
-status: up
-code: 200
-responseTime: 800
-lastUpdated: 2026-11-18T04:00:57.566Z
+status: down
+code: 403
+responseTime: 664
+lastUpdated: 2026-11-19T00:46:15.796Z
 startTime: 2026-07-30T06:50:36.100Z
 generator: Upptime <https://github.com/upptime/upptime>
