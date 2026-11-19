@@ -37,18 +37,12 @@ sites:
   - name: Authentik
     url: https://autho.$DOMAIN
     icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/authentik.svg
-  - name: DNS
-    url: https://dns.$DOMAIN
-    icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/technitium.svg
   - name: Paperless
     url: https://paperless.$DOMAIN
     icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/paperless-ngx.svg
   - name: Actual Budget
     url: https://budget.$DOMAIN
     icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/actual-budget.svg
-  - name: Wazuh
-    url: https://wazuh.$DOMAIN
-    icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg
 
 assignees: # Users to assign downtime issues (optional)
   - mrdavidkovacs
